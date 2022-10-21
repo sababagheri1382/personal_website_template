@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /friend/
+permalink: /friends/
 title: My Uni-friends 
 tags: [friends]
 modified: 21-10-2022
