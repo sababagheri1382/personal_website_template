@@ -1,17 +1,19 @@
 ---
 layout: single
 author_profile: true
-permalink: /friends/
-title: My friends around the world
+permalink: /friend/
+title: My Uni-friends 
 tags: [friends]
-modified: 4-10-2019
+modified: 21-10-2022
 comments: true
 ---
-
-### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
+### classmates
+* Sanya Masodi
+* Mina Shabani
+* Yasaman Kargar
+* Zeinab Nasiri
+* Ayda Reyhani
+* Fatemeh Smaili
 
 
 
