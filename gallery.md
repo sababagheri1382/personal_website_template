@@ -4,7 +4,7 @@ author_profile: true
 permalink: /gallery/
 title: Gallery
 tags: [gallery]
-modified: 9-14-2019
+modified: 21-10-2022
 comments: false
 gallery:
   - url: /assets/images/1.jpg
@@ -29,5 +29,5 @@ gallery:
     title: "Image 5 title caption"    
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption=" These pictures are about the subjacts which I like knowing about." %}
 
