@@ -4,7 +4,7 @@ author_profile: true
 permalink: /links/
 title: Links
 tags: [Studying, courses]
-modified: 9-14-2019
+modified: 21-10-2022
 comments: false
 ---
 
@@ -13,4 +13,3 @@ comments: false
 * [Places I want to visit](http://iwanttovisit.com)
 * [My home city](http://homecity.com)
 * [My university](http://myuniversity.com)
-
