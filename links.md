@@ -4,7 +4,7 @@ author_profile: true
 permalink: /links/
 title: Links
 tags: [Studying, courses]
-modified: 21-10-2022
+modified: 25-10-2022
 comments: false
 ---
 

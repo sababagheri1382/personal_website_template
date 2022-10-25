@@ -4,11 +4,11 @@ author_profile: true
 permalink: /hobbies/
 title: Hobbies
 tags: [Hoby]
-modified: 9-14-2019
+modified: 25-10-2022
 comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [akinator](http://en.akinator.com/)
 
 
