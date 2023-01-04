@@ -10,9 +10,9 @@ gallery:
   - url: /assets/images/8.jpg.jpg
     image_path: /assets/images/8.jpg.jpg
     alt: "placeholder image 1"
-    title: "Reading Books"
+    title: "exam"
   - url: /assets/images/9.jpg.jpeg
-    image_path: /assets/images/9.jpg.jpeg
+    image_path: /assets/images/19.jpg
     alt: "placeholder image 2"
     title: "space and Earth"
   - url: /assets/images/17.jpg.jpg
